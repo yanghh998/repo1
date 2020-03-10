@@ -3,3 +3,6 @@ yangchuyichuyi
 huihuang
 huihuang
 shixishixi
+add some content to mytest.txt
+wwwwwwwwwwwwwwwwwww
+1111111111
